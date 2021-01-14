@@ -1,0 +1,7 @@
+install docker
+
+deploy nginx container
+
+content management/ build website
+
+build container for easy re-deploy
