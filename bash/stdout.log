@@ -1,0 +1,9 @@
+insgesamt 32
+drwxr-xr-x 2 pdietric pdietric 4096 21. Jan 11:07 .
+drwxr-xr-x 8 pdietric pdietric 4096 21. Jan 08:23 ..
+-rw-r--r-- 1 pdietric pdietric 9655 21. Jan 08:41 commands
+-rw-r--r-- 1 pdietric pdietric   87 21. Jan 11:03 list
+-rw-r--r-- 1 pdietric pdietric 1760 21. Jan 09:49 notes.sh
+-rw-r--r-- 1 pdietric pdietric    0 21. Jan 11:07 stder.log
+-rw-r--r-- 1 pdietric pdietric    0 21. Jan 11:07 stdout.log
+-rwxr-xr-x 1 pdietric pdietric   45 21. Jan 11:07 test.sh
