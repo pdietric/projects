@@ -1,0 +1,6 @@
+###YOUTUBE-DL###
+alias ytmp3="youtube-dl --extract-audio --audio-format mp3 --embed-thumbnail"
+alias ytmp4="youtube-dl -f 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best' --embed-thumbnail"
+alias ytmp3list="youtube-dl --yes-playlist --extract-audio --audio-format mp3 --embed-thumbnail"
+alias ytmp4list="youtube-dl --yes-playlist -f 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best' --embed-thumb$
+alias ytsync=". $PATH/yt_sync.sh"

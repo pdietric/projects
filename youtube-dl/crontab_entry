@@ -1,0 +1,4 @@
+#crontab -e
+
+MAILTO="<yourmail>"
+0 0 * * * ./Users/$USER/.scripts/yt_sync.sh

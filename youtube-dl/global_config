@@ -1,0 +1,5 @@
+
+#/Users/$USER/.config/youtube-dl/config
+
+#Downloadpaths
+-o ~/Music/ytdl/%(title)s.%(ext)s
